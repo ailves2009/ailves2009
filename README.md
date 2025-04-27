@@ -1,7 +1,13 @@
 # 👋 Welcome to My GitHub Profile!
-
+<!-->
+![Background](assets/background.jpg "Background Image") <!-- Замените путь на актуальный -->
+-->
 ## 🧑‍💻 About Me
 Hi! My name is Alexander Ilves, and I’m a **DevOps Engineer** and **Cloud Architect** with extensive experience in designing, deploying, and managing cloud and on-premise infrastructures. I specialize in creating scalable, secure, and reliable solutions for enterprise networks and projects. With a Master's degree in IT and over 30 professional certifications from leading tech companies like AWS, Microsoft, and VMware, I bring a wealth of knowledge and expertise to every project.
+
+---
+
+![My Photo](assets/ailves2009.jpg "Alexander Ilves")
 
 ---
 
@@ -19,8 +25,8 @@ Hi! My name is Alexander Ilves, and I’m a **DevOps Engineer** and **Cloud Arch
 ---
 
 ## 💼 Professional Experience
-www.linkedin.com/in/alexander-ilves-2009
-https://alexanderilves.medium.com/
+[LinkedIn Profile](https://www.linkedin.com/in/alexander-ilves-2009)  
+[Medium Blog](https://alexanderilves.medium.com/)
 
 ---
 
@@ -48,14 +54,15 @@ https://alexanderilves.medium.com/
 - **Microsoft Certified System Engineer (MCSE)**  
   [View Credential](https://www.microsoft.com/ru-ru/learning/certification-overview.aspx)  
 - **Project Management Professional (PMP)**  
-  [View Credential](https://my.pmi.org/)  
+  [View Credential](https://www.pmi.org/certifications/project-management-pmp)  
 
 ---
 
 ## 📫 How to Reach Me
 - 📧 Email: [ailves2009@gmail.com](mailto:ailves2009@gmail.com)  
 - 🌐 Website: [ailves2009.com](https://ailves2009.com/)  
-- 💼 LinkedIn: [Alexander Ilves](https://www.linkedin.com/in/alexander-ilves-2009/)  
+- 💼 LinkedIn: [Alexander Ilves](https://www.linkedin.com/in/alexander-ilves-2009)  
+- 📝 Medium: [Alexander Ilves Blog](https://alexanderilves.medium.com/)
 
 ---
 
