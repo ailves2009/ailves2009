@@ -1,13 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
-
-![Background](assets/background.jpg "Background Image")
-
 ## 🧑‍💻 About Me
 Hi! My name is Alexander Ilves, and I’m a **DevOps Engineer** and **Cloud Architect** with extensive experience in designing, deploying, and managing cloud and on-premise infrastructures. I specialize in creating scalable, secure, and reliable solutions for enterprise networks and projects. With a Master's degree in IT and over 30 professional certifications from leading tech companies like AWS, Microsoft, and VMware, I bring a wealth of knowledge and expertise to every project.
-
----
-
-![My Photo](assets/ailves2009.png "Alexander Ilves")
 
 ---
 
