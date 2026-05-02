@@ -1,13 +1,18 @@
 # 👋 Welcome to My GitHub Profile!
 ## 🧑‍💻 About Me
-Hi! My name is Alexander Ilves, and I’m a **DevOps Engineer** and **Cloud Architect** with extensive experience in designing, deploying, and managing cloud and on-premise infrastructures. I specialize in creating scalable, secure, and reliable solutions for enterprise networks and projects. With a Master's degree in IT and over 30 professional certifications from leading tech companies like AWS, Microsoft, and VMware, I bring a wealth of knowledge and expertise to every project.
+Hi! My name is Alexander Ilves, and I’m a ***Senior DevOps / SRE / Platform Engineer*** and ***Cloud Architect*** with 25+ years of experience designing and operating highly available cloud and on-premises infrastructure. Strong expertise in AWS, Kubernetes, and Infrastructure as
+Code (Terraform, Terragrunt, Helm).
+Hands-on platform engineer with end-to-end ownership — from design to production — focused on reliability, scalability, and production operations. Experienced in infrastructure operations, platform engineering, and building production systems at scale. Proactive in driving reliability improvements and incident prevention through automation and observability.
+Strong background in DevSecOps, compliance (SOC2 / ISO 27001), and mentoring engineering teams..
 
 ---
 
 ## 🌟 Key Skills
-- **Cloud Platforms:** AWS (EKS, ECS, IAM, EC2, VPC, SQS, SNS, CloudFront, S3, RDS), Azure (IAM, DNS, VNet, Event Hubs ..), GCP (CloudRun, Pub/Sub, Marketplace ..)
+- **Cloud Platforms:** AWS (EKS, ECS, Fargate, Lambda, IAM, EC2, VPC, SQS, SNS, CloudFront, S3, RDS, ..), 
+  - Azure (IAM, DNS, VNet, Event Hubs ..)
+  - GCP (CloudRun, Pub/Sub, Marketplace ..)
 - **Containerization & Orchestration:** Docker, Kubernetes, Helm, Istio, Karpenter, Flagger
-- **Infrastructure as Code (IaC):** Terraform, AWS CDK, CloudFormation, Ansible
+- **Infrastructure as Code (IaC):** Terraform, Terragrunt, AWS CDK, CloudFormation, Ansible
 - **CI/CD Tools:** GitHub Actions, GitLab CI, Jenkins, ArgoCD, Flux
 - **Programming & Scripting:** Python, Bash
 - **Monitoring & Logging:** Prometheus, Grafana, Datadog, VictoriaMetrics, Zabbix
